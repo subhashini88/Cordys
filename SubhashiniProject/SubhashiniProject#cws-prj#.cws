@@ -6,7 +6,7 @@
 	RuntimeDocumentID="0e859b89-9354-a1ef-9ff8-e2030cd9f0ab">
 	<DocumentID>0e859b89-9354-a1ef-9ff8-e2030cd9b0ab</DocumentID>
 	<Name>SubhashiniProject</Name>
-	<Description>SubhashiniProject</Description>
+	<Description>SubhashiniProject11</Description>
 	<CreatedBy>sysadmin</CreatedBy>
 	<CreationDate>2024-10-01T10:58:32.409</CreationDate>
 	<Notes/>
@@ -33,6 +33,7 @@
 			<SupportedDeploymentSpaces
 				xmlns:cws="http://schemas.cordys.com/cws/1.0"
 				cws:type="collection:string">
+				<cws:item>SHARED</cws:item>
 				<cws:item>SHARED</cws:item>
 			</SupportedDeploymentSpaces>
 			<Version>1.0</Version>
