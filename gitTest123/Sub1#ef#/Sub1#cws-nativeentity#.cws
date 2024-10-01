@@ -1,0 +1,32 @@
+
+<EntityNative
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.nativ.EntityNative"
+	typeVersion="06E7E4B3-21E5-4E89-A832-02EB7CCE511E"
+	RuntimeDocumentID="0e859b89-9354-a1ef-9ff9-06bb761f85db">
+	<DocumentID>0e859b89-9354-a1ef-9ff9-06bb761d45db</DocumentID>
+	<Name>Sub1</Name>
+	<Description>Sub1</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-10-01T11:06:58.675</CreationDate>
+	<Notes/>
+	<ExposeForReuse>false</ExposeForReuse>
+	<IsAbstract>false</IsAbstract>
+	<IsEisNativeEntity>false</IsEisNativeEntity>
+	<IsExternallyManaged>false</IsExternallyManaged>
+	<IsSingleton>false</IsSingleton>
+	<RepositoryConnectionId></RepositoryConnectionId>
+	<TableName></TableName>
+	<BuildingBlocks/>
+	<DBObject/>
+	<DisplayName/>
+	<Original/>
+	<OwnedBuildingBlocks/>
+	<ParentRelationship/>
+	<Supertype>
+		<uri
+			id="0e859b89-9354-a1ef-9ff8-e614bde0f841"
+		/>
+	</Supertype>
+	<TranslatableDisplayName/>
+</EntityNative>
