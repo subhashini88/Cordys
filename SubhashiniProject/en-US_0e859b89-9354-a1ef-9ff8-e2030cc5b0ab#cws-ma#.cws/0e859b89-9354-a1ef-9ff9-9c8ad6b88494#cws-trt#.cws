@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0e859b89-9354-a1ef-9ff9-9c8ad6b8c494">
+	<DocumentID>0e859b89-9354-a1ef-9ff9-9c8ad6b88494</DocumentID>
+	<Name>0e859b89-9354-a1ef-9ff9-9c8ad6b88494</Name>
+	<Description>Root Folders</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-10-01T11:15:40.926</CreationDate>
+	<Notes/>
+	<Text>Root Folders</Text>
+	<Language>
+		<uri
+			id="0e859b89-9354-a1ef-9ff8-e2030cc830ab"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0e859b89-9354-a1ef-9ff9-9c8ad6b60494"
+		/>
+	</TextIdentifier>
+</TranslatedText>
